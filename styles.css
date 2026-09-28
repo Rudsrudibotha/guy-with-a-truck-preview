@@ -54,8 +54,8 @@ svg{width:1.1em;height:1.1em;fill:currentColor;flex:none}
 .hero-tags span{padding:.45em .9em;border-radius:999px;background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.18);font-weight:700;font-size:.86rem}
 .hero-media{position:relative}
 .hero-frame{border-radius:28px;overflow:hidden;border:6px solid var(--paper);box-shadow:0 40px 80px -30px rgba(0,0,0,.8);transform:rotate(2deg);aspect-ratio:4/3.4}
-.hero-frame img{width:100%;height:100%;object-fit:cover;object-position:30% 55%}
-.hero-mini{position:absolute;left:-36px;bottom:-34px;width:42%;border-radius:20px;overflow:hidden;border:6px solid var(--paper);box-shadow:var(--shadow);transform:rotate(-5deg);aspect-ratio:3/4}
+.hero-frame img{width:100%;height:100%;object-fit:cover;object-position:18% 55%}
+.hero-mini{position:absolute;left:-54px;bottom:-70px;width:32%;border-radius:20px;overflow:hidden;border:6px solid var(--paper);box-shadow:var(--shadow);transform:rotate(-5deg);aspect-ratio:3/4}
 .hero-mini img{width:100%;height:100%;object-fit:cover}
 .sticker{position:absolute;right:-18px;top:-40px;width:150px;height:150px;border-radius:50%;background:linear-gradient(140deg,var(--sun-2),var(--sun));color:var(--ink);display:grid;place-items:center;text-align:center;transform:rotate(-10deg);box-shadow:var(--shadow);border:4px dashed rgba(20,28,24,.35);padding:1rem;z-index:2}
 .sticker b{font-family:var(--display);font-size:2.5rem;line-height:.9;display:block}
@@ -243,7 +243,7 @@ svg{width:1.1em;height:1.1em;fill:currentColor;flex:none}
   .sticker{width:124px;height:124px;right:-6px;top:-34px;padding:.6rem}
   .sticker b{font-size:1.8rem}
   .sticker span{font-size:.56rem}
-  .hero-mini{left:-8px;bottom:-26px;width:38%}
+  .hero-mini{left:-8px;bottom:-40px;width:30%}
   .hero-media{margin:1rem 8px 2rem}
   .checks,.spec-list{grid-template-columns:1fr}
   .fav-band{grid-template-columns:1fr;gap:1rem}
