@@ -1,35 +1,10 @@
-Guy With a Truck — image sources / photo credits
-Downloaded 2026-09-28. Preview by Dev Forge ZA.
-ALL images are the business's OWN photos/graphics from its public Nextdoor business page:
-https://nextdoor.com/pages/guy-with-a-truck-corning-ny/
-No stock photography used. Resized/cropped only.
-Privacy edits 2026-09-28: licence plates blurred on truck-trailer-hero.jpg, truck-trailer.jpg,
-loaded-cage.jpg and load-on-lawn.jpg; third-party store sign blurred on job-site-lot.jpg.
-All files live in images/.
-
-truck-trailer-hero.jpg  (landscape crop) and truck-trailer.jpg
-  Caged pickup towing tarped dump trailer.
-  https://us1-photo.nextdoor.com/business_gallery/06/9b/069bffcab6a46cd882b87c391f545daa.jpeg
-truck-cage-garage.jpg
-  Caged pickup on lawn beside a white garage.
-  https://us1-photo.nextdoor.com/business_gallery/76/77/767748c20e79a7eef99d9de5f9a48c33.jpeg
-garage-before.jpg
-  Garage before clean-out.
-  https://us1-photo.nextdoor.com/business_gallery/93/22/9322128dbbe0bf298db543975768615a.jpeg
-garage-after.jpg
-  Same garage after clean-out.
-  https://us1-photo.nextdoor.com/business_gallery/e1/56/e156d0f66071937f5791ce2fdfb208d8.jpeg
-loaded-cage.jpg
-  Loaded truck cage outside a house.
-  https://us1-photo.nextdoor.com/business_gallery/a9/eb/a9eb3de3d5c3f15ad7115b5c93acfec8.jpeg
-load-on-lawn.jpg
-  Loaded pickup on a residential lawn (Nextdoor post photo).
-  https://us1-photo.nextdoor.com/post_photos/be/f6/bef6e12986c116c78a0c6c8d29f3d801.jpeg
-job-site-lot.jpg
-  Pickups and trailer at a job site lot.
-  https://us1-photo.nextdoor.com/business_gallery/b0/4d/b04d1b679cf626579c8f8ca6e415b47e.jpeg
-logo.jpg
-  Business logo (cartoon of Trey in the truck).
-  https://us1-photo.nextdoor.com/business_logo/c7/20/c72028216716ad0d2f4cccc1ed7bfe32.jpeg
-Also reviewed (not used as images): business cover flyer, trash flyer (business_gallery/e5/dc/...), posters
-  https://us1-photo.nextdoor.com/business_cover/91/d6/91d6492dbb2ad61adc9100164ca5837c.jpeg
+Image credits, Guy With a Truck
+images/truck-trailer-hero.jpg — Caged pickup towing a tarped dump trailer — source: Guy With a Truck (Nextdoor)
+images/truck-trailer.jpg — Caged pickup towing a tarped dump trailer — source: Guy With a Truck (Nextdoor)
+images/truck-cage-garage.jpg — Caged pickup beside a white garage — source: Guy With a Truck (Nextdoor)
+images/garage-before.jpg — Garage before clean-out — source: Guy With a Truck (Nextdoor)
+images/garage-after.jpg — Garage after clean-out — source: Guy With a Truck (Nextdoor)
+images/loaded-cage.jpg — Loaded truck cage outside a house — source: Guy With a Truck (Nextdoor)
+images/load-on-lawn.jpg — Loaded pickup on a residential lawn — source: Guy With a Truck (Nextdoor)
+images/job-site-lot.jpg — Pickups and trailer at a job site — source: Guy With a Truck (Nextdoor)
+images/logo.jpg — Guy With a Truck business logo — source: Guy With a Truck (Nextdoor)
