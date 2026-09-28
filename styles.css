@@ -12,6 +12,7 @@ html{scroll-behavior:smooth}
 body{margin:0;font-family:var(--body);font-size:17px;line-height:1.6;color:var(--ink);background:var(--paper);-webkit-font-smoothing:antialiased}
 img{max-width:100%;height:auto;display:block}
 a{color:inherit}
+button{font:inherit}
 .wrap{width:min(1180px,100% - 40px);margin-inline:auto}
 h1,h2,h3,h4{font-family:var(--display);line-height:1.02;letter-spacing:-.02em;margin:0 0 .4em}
 h1{font-size:clamp(2.7rem,7vw,5.6rem);font-weight:800}
@@ -240,11 +241,13 @@ svg{width:1.1em;height:1.1em;fill:currentColor;flex:none}
   .nav-links.is-open{display:flex}
   .nav-links a:not(.btn){padding:.9rem 0;border-bottom:1px solid rgba(255,255,255,.08)}
   .nav-links .btn{margin-top:1rem}
-  .sticker{width:124px;height:124px;right:-6px;top:-34px;padding:.6rem}
-  .sticker b{font-size:1.8rem}
-  .sticker span{font-size:.56rem}
-  .hero-mini{left:-8px;bottom:-40px;width:30%}
-  .hero-media{margin:1rem 8px 2rem}
+  .sticker{width:104px;height:104px;right:-4px;top:-26px;padding:.5rem}
+  .sticker b{font-size:1.6rem}
+  .sticker span{font-size:.5rem}
+  .hero-mini{display:none}
+  .hero-media{order:-1;margin:1.2rem 8px .4rem}
+  .hero-grid{padding-top:1.2rem;gap:1.6rem}
+  .hero-frame{aspect-ratio:16/10;transform:rotate(1.5deg);border-width:4px}
   .checks,.spec-list{grid-template-columns:1fr}
   .fav-band{grid-template-columns:1fr;gap:1rem}
   .photo-stack{min-height:420px}

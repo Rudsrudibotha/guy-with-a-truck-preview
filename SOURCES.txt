@@ -1,8 +1,11 @@
-Guy With a Truck — image sources
-Downloaded 2026-09-28 for a Dev Forge ZA speculative website concept.
+Guy With a Truck — image sources / photo credits
+Downloaded 2026-09-28. Preview by Dev Forge ZA.
 ALL images are the business's OWN photos/graphics from its public Nextdoor business page:
 https://nextdoor.com/pages/guy-with-a-truck-corning-ny/
 No stock photography used. Resized/cropped only.
+Privacy edits 2026-09-28: licence plates blurred on truck-trailer-hero.jpg, truck-trailer.jpg,
+loaded-cage.jpg and load-on-lawn.jpg; third-party store sign blurred on job-site-lot.jpg.
+All files live in images/.
 
 truck-trailer-hero.jpg  (landscape crop) and truck-trailer.jpg
   Caged pickup towing tarped dump trailer.
@@ -28,9 +31,5 @@ job-site-lot.jpg
 logo.jpg
   Business logo (cartoon of Trey in the truck).
   https://us1-photo.nextdoor.com/business_logo/c7/20/c72028216716ad0d2f4cccc1ed7bfe32.jpeg
-trash-flyer.jpg
-  Business's own "Full Service Trash Removal" flyer ($44.99/month after tax; route towns).
-  https://us1-photo.nextdoor.com/business_gallery/e5/dc/e5dcf4a4165205dbc7045c0b975d89f7.jpeg
-
-Also reviewed (not used as images): business cover flyer
+Also reviewed (not used as images): business cover flyer, trash flyer (business_gallery/e5/dc/...), posters
   https://us1-photo.nextdoor.com/business_cover/91/d6/91d6492dbb2ad61adc9100164ca5837c.jpeg
