@@ -60,7 +60,7 @@ svg{width:1.1em;height:1.1em;fill:currentColor;flex:none}
 .hero-frame img{width:100%;height:100%;object-fit:cover;object-position:18% 55%}
 .hero-mini{position:absolute;left:-54px;bottom:-70px;width:32%;border-radius:20px;overflow:hidden;border:6px solid var(--paper);box-shadow:var(--shadow);transform:rotate(-5deg);aspect-ratio:3/4}
 .hero-mini img{width:100%;height:100%;object-fit:cover}
-.sticker{position:absolute;right:-6px;top:-40px;width:150px;height:150px;border-radius:50%;background:linear-gradient(140deg,var(--sun-2),var(--sun));color:var(--ink);display:grid;place-items:center;text-align:center;transform:rotate(-10deg);box-shadow:var(--shadow);border:4px dashed rgba(20,28,24,.35);padding:1rem;z-index:2}
+.sticker{position:absolute;right:8px;top:-40px;width:150px;height:150px;border-radius:50%;background:linear-gradient(140deg,var(--sun-2),var(--sun));color:var(--ink);display:grid;place-items:center;text-align:center;transform:rotate(-10deg);box-shadow:var(--shadow);border:4px dashed rgba(20,28,24,.35);padding:1rem;z-index:2}
 .sticker b{font-family:var(--display);font-size:2.5rem;line-height:.9;display:block}
 .sticker>div{line-height:1}
 .sticker b{margin:.12rem 0 .1rem}
