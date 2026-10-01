@@ -1,8 +1,11 @@
-# Guy With a Truck — speculative website concept (Dev Forge ZA)
+# Guy With a Truck
 
-Corning, NY junk removal, clean-outs and valet-style weekly trash pickup.
+Website for Guy With a Truck: junk removal, clean-outs and valet-style weekly trash pickup in Corning, NY and the tri-county area.
+
 Live: https://rudsrudibotha.github.io/guy-with-a-truck-preview/
 
-Pages: index.html, junk-removal.html, weekly-trash.html, contact.html · styles.css · images/ (business's own photos, credits in SOURCES.txt at repo root)
-Contact wired: (607) 654-3254 (tel: and sms:), guywithatruck607@gmail.com. Hours Mon–Sat 9am–9pm.
-Not the official site unless adopted. Generated from briefs/guy-with-a-truck/src/build.py.
+- Pages: index.html, junk-removal.html, weekly-trash.html, contact.html
+- Styles: styles.css
+- Images: images/ (the business's own photos and logo; credits in SOURCES.txt)
+- Contact: (607) 654-3254 (call or text), guywithatruck607@gmail.com
+- Hours: Monday to Saturday, 9am to 9pm; Sunday closed

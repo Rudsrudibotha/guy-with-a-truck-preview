@@ -8,3 +8,4 @@ images/loaded-cage.jpg — Loaded truck cage outside a house — source: Guy Wit
 images/load-on-lawn.jpg — Loaded pickup on a residential lawn — source: Guy With a Truck (Nextdoor)
 images/job-site-lot.jpg — Pickups and trailer at a job site — source: Guy With a Truck (Nextdoor)
 images/logo.jpg — Guy With a Truck business logo — source: Guy With a Truck (Nextdoor)
+images/logo-round.jpg — Guy With a Truck business logo (centered on a square for round frames) — source: Guy With a Truck (Nextdoor)
